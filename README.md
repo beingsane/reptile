@@ -103,6 +103,8 @@ delimited list of items to include. You can grab these by using `Reptile::reques
 
 If you wish to check that a certain inclusion has been requested, you can use `Reptile::request()->shouldInclude('include')`.
 
+### Responses
+
 Implementation
 ------
 
@@ -112,4 +114,4 @@ Known Bugs
 Todo
 ------
 
-Complete documenation.
+ - Complete documenation.
